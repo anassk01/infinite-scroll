@@ -1,0 +1,1 @@
+"#Infinite Scroll Project: A dynamic web application implementing infinite scroll functionality to seamlessly showcase images sourced from the Unsplash API. Scroll endlessly through a captivating display of diverse and high-quality images, creating a visually immersive experience for users" 
